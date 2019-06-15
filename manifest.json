@@ -1,0 +1,11 @@
+{
+  "name": "Estagio",
+  "theme_color": "black",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "https://carolveleda.github.io/e/",
+  "icons": [],
+  "splash_pages": null
+}
