@@ -1,11 +1,11 @@
 {
-  "name": "Geek Store",
+  "name": "e",
   "theme_color": "rgba(195,81,81,0.89)",
   "background_color": "#ffffff",
   "display": "fullscreen",
   "orientation": "portrait",
   "Scope": "/",
-  "start_url": "https://carolineveleda.github.io/e/",
+  "start_url": "https://carolveleda.github.io/e/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
