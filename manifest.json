@@ -1,6 +1,6 @@
 {
   "name": "e",
-  "theme_color": "rgba(195,81,81,0.89)",
+  "theme_color": "#66CDAA",
   "background_color": "#ffffff",
   "display": "fullscreen",
   "orientation": "portrait",
