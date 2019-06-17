@@ -1,7 +1,7 @@
 {
   "name": "e",
   "theme_color": "#66CDAA",
-  "background_color": "#ffffff",
+  "background_color": "#66CDAA",
   "display": "fullscreen",
   "orientation": "portrait",
   "Scope": "/",
